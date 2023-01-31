@@ -1,3 +1,5 @@
 # 260StartUp
 Start Up project for CS 260
 This is a lone added from gitHub
+Desciption
+There are plenty of books and tools for playing RPG’s such as Pathfinder, Dungeons and Dragons, and other Essense20 system games. But if you live far away from your party, but still want to play the same games together? This website is for that. It is a virtual tabletop made to be able to put any map and tokens you upload to the site. All of your personal tokens and maps are saved under your account you create, and the account that is free! Your friends can join your virtual tabletop, and they can also upload their own tokens as well! An adjustable table for games as classic as chess, to games as complex as Dungeons and Dragons, or even for games you made on your own! Once more, the website is user friendly for both mobile and desktop devices. You just have to click or drag your desired images for tokens/maps into the website to upload, and then it will save to your account as a token you can drag and drop or a map you can set. Works for most any game, and pieces are put exactly where you want them.
